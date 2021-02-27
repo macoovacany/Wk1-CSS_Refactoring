@@ -1,10 +1,13 @@
 # Week 01 Project - HTML, CSS, and Git: Code Refactor
 
-[[]]
-
 ## Objective 
 
 The objective of the the first week's assignment is to  **refactor** existing code  to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. 
+
+## Quick Links
+
+ * [Github code repository](https://github.com/macoovacany/Wk1-CSS_Refactoring)
+ * [Published page](https://macoovacany.github.io/Wk1-CSS_Refactoring)
 
 ## Scenario
 
@@ -44,80 +47,18 @@ THEN I find a concise, descriptive title
 | Title is a concise and desciptive | Title changed to "Horiseon Social Solution Services" |
 | optimised CSS selectors | - changed the benefits heading to h2, as it's a separate section between "benefits" and "content" divs <br> - consolidated  the benefits-* heading to ".benefits * h2" <br> - consolidated common styling deinfitions as css list selectors. |
 | all the applications links work correctly |  updated navigation link to work correctly |
----
+| Application's CSS selectors and properties are consolidated and organized to follow semantic structure. | There are three ways the CSS selectors are consolidated<br> 1. items in the content section are decoupled by interoducing another class "content-items" <br> 2. used hte universal selector for sub items of benefits class <br> 3. used the css comma to apply style to multiple classes |
+| Application's CSS file is properly commented. | CSS file is commented |
+| Application deployed at live URL. | [Published page](https://macoovacany.github.io/Wk1-CSS_Refactoring) |
+| Application loads with no errors. | TODO |
+| Application GitHub URL submitted. | [Github code repository](https://github.com/macoovacany/Wk1-CSS_Refactoring) |
+| GitHub repository contains application code. | TODO  |
+| Application resembles mock-up provided in the homework instructions (at least 90%). | yes, note that the footer is cut-off in teh sample image in the assets folder.  |
+| Repository has a unique name. | certainly unique. |
+| Repository follows best practices for file structure and naming conventions. | TODO |
+| Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. | TODO |
+| Repository contains multiple descriptive commit messages. | yes. |
+| Repository contains quality README file with description, screenshot, and link to deployed application. | yes |
+| The URL of the deployed application. | [Published page](https://macoovacany.github.io/Wk1-CSS_Refactoring) |
+| The URL of the GitHub repository, with a unique name and a README that describes the project. | [Github code repository](https://github.com/macoovacany/Wk1-CSS_Refactoring) |
 
-
-The following image shows the web application's appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
-
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
-
-## Getting Started
-
-Follow these instructions to create your project and deploy it to GitHub Pages:
-
-1. Create a new repository on your GitHub account and clone it to your computer.
-
-2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
-
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
-
-4. On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
-
-5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
-
-You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
-
-> **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
-
-Be sure to add, commit, and push your work to see the most up-to-date version of your app!
-
-## Grading Requirements
-
-This homework is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the preceding acceptance criteria plus the following code improvements:
-
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-  * Application's CSS file is properly commented.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application resembles mock-up provided in the homework instructions (at least 90%).
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
-
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
