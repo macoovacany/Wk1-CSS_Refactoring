@@ -41,8 +41,8 @@ THEN I find a concise, descriptive title
 | Structure of html semantic elements is logical | Using the layout of [W3 schools](https://www.w3schools.com/html/html5_semantic_elements.asp#:~:text=A%20semantic%20element%20clearly%20describes,%3E%20%2D%20Clearly%20defines%20its%20content) for header nave, article, section, aside and footer. <br> - divs  class header changed to semantic element header <br> - |
 | All image elements have alt tags | TODO |
 | headings are in sequential order | TODO |
-| Title is a concise and desciptive | Title changed to Horiseon Social Solution Services |
-
+| Title is a concise and desciptive | Title changed to "Horiseon Social Solution Services" |
+| optimised CSS selectors | - changed the benefits heading to h2, as it's a separate section between "benefits" and "content" divs <br>- consolidated  the benefits-* heading to ".benefits * h2" 
 ---
 
 
