@@ -43,7 +43,7 @@ THEN I find a concise, descriptive title
 | headings are in sequential order | h1 heading reserved for entire document, <br> h2 headings used for content and benefits sections. |
 | Title is a concise and desciptive | Title changed to "Horiseon Social Solution Services" |
 | optimised CSS selectors | - changed the benefits heading to h2, as it's a separate section between "benefits" and "content" divs <br> - consolidated  the benefits-* heading to ".benefits * h2" <br> - consolidated common styling deinfitions as css list selectors. |
-| all the applications links work correctly | |
+| all the applications links work correctly |  updated navigation link to work correctly |
 ---
 
 
@@ -80,8 +80,6 @@ This homework is graded based on the following criteria:
 ### Technical Acceptance Criteria: 40%
 
 * Satisfies all of the preceding acceptance criteria plus the following code improvements:
-
-  * Application's links all function correctly.
 
   * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 
