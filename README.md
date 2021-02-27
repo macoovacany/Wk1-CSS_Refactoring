@@ -7,7 +7,7 @@ The objective of the the first week's assignment is to  **refactor** existing co
 ## Quick Links
 
  * [Github code repository](https://github.com/macoovacany/Wk1-CSS_Refactoring)
- * [Published page](https://macoovacany.github.io/Wk1-CSS_Refactoring)
+ * [Published page - (relative link from markdown file)](./docs/index.html)
 
 ## Scenario
 
