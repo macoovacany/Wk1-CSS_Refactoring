@@ -41,7 +41,7 @@ THEN I find a concise, descriptive title
 
 | **Requirement** | **Compliance Statement** |
 | --- | ----|
-| Structure of html semantic elements is logical | Using the layout of [W3 schools](https://www.w3schools.com/html/html5_semantic_elements.asp#:~:text=A%20semantic%20element%20clearly%20describes,%3E%20%2D%20Clearly%20defines%20its%20content) for header nave, article, section, aside and footer. <br> - divs  class header and footer changed to semantic element header <br> - nav items still left as div (TODO ?) |
+| Structure of html semantic elements is logical | Using the layout of [W3 schools](https://www.w3schools.com/html/html5_semantic_elements.asp#:~:text=A%20semantic%20element%20clearly%20describes,%3E%20%2D%20Clearly%20defines%20its%20content) for header nave, article, section, aside and footer. <br> - divs  class header and footer changed to semantic element header  |
 | All image elements have alt tags | all images, except for the background div class="hero" bakcground-image,  have alt tags. |
 | headings are in sequential order | h1 heading reserved for entire document, <br> h2 headings used for content and benefits sections. |
 | Title is a concise and desciptive | Title changed to "Horiseon Social Solution Services" |
