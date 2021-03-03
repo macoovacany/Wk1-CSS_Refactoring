@@ -42,12 +42,12 @@ THEN I find a concise, descriptive title
 | **Requirement** | **Compliance Statement** |
 | --- | ----|
 | Structure of html semantic elements is logical | Using the layout of [W3 schools](https://www.w3schools.com/html/html5_semantic_elements.asp#:~:text=A%20semantic%20element%20clearly%20describes,%3E%20%2D%20Clearly%20defines%20its%20content) for header nave, article, section, aside and footer. <br> - divs  class header and footer changed to semantic element header  |
-| All image elements have alt tags | all images, except for the background div class="hero" bakcground-image,  have alt tags. |
+| All image elements have alt tags | all images, except for the background div class="hero" background-image,  have alt tags. |
 | headings are in sequential order | h1 heading reserved for entire document, <br> h2 headings used for content and benefits sections. |
-| Title is a concise and desciptive | Title changed to "Horiseon Social Solution Services" |
-| optimised CSS selectors |  consolidated common styling deinfitions as css list selectors. |
+| Title is a concise and descriptive | Title changed to "Horiseon Social Solution Services" |
+| optimised CSS selectors |  consolidated common styling definitions as css list selectors. |
 | all the applications links work correctly |  updated navigation link to work correctly |
-| Application's CSS selectors and properties are consolidated and organized to follow semantic structure. | There are three ways the CSS selectors are consolidated<br> 1. items in the content section are decoupled by interoducing another class "content-items" <br> 2. used hte universal selector for sub items of benefits class <br> 3. used the css comma to apply style to multiple classes |
+| Application's CSS selectors and properties are consolidated and organized to follow semantic structure. | consolidated common styling definitions as css list selectors. |
 | Application's CSS file is properly commented. | CSS file is commented |
 | Application deployed at live URL. | [Published page](https://macoovacany.github.io/Wk1-CSS_Refactoring) |
 | Application loads with no errors. | yes |
