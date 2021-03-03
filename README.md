@@ -7,7 +7,7 @@ The objective of the the first week's assignment is to  **refactor** existing co
 ## Quick Links
 
  * [Github code repository](https://github.com/macoovacany/Wk1-CSS_Refactoring)
- * [Published page - (relative link from markdown file)](./docs/index.html)
+ * [Published page](https://macoovacany.github.io/Wk1-CSS_Refactoring)
 
 ## Scenario
 
@@ -50,15 +50,14 @@ THEN I find a concise, descriptive title
 | Application's CSS selectors and properties are consolidated and organized to follow semantic structure. | There are three ways the CSS selectors are consolidated<br> 1. items in the content section are decoupled by interoducing another class "content-items" <br> 2. used hte universal selector for sub items of benefits class <br> 3. used the css comma to apply style to multiple classes |
 | Application's CSS file is properly commented. | CSS file is commented |
 | Application deployed at live URL. | [Published page](https://macoovacany.github.io/Wk1-CSS_Refactoring) |
-| Application loads with no errors. | TODO |
+| Application loads with no errors. | yes |
 | Application GitHub URL submitted. | [Github code repository](https://github.com/macoovacany/Wk1-CSS_Refactoring) |
-| GitHub repository contains application code. | TODO  |
-| Application resembles mock-up provided in the homework instructions (at least 90%). | yes, note that the footer is cut-off in teh sample image in the assets folder.  |
+| GitHub repository contains application code. | yes  |
+| Application resembles mock-up provided in the homework instructions (at least 90%). | yes, note that the footer is cut-off in the sample image in the assets folder.  |
 | Repository has a unique name. | certainly unique. |
-| Repository follows best practices for file structure and naming conventions. | TODO |
-| Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. | TODO |
+| Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. | Ok, conventions for class/id naming, file structure and naming conventions |
 | Repository contains multiple descriptive commit messages. | yes. |
-| Repository contains quality README file with description, screenshot, and link to deployed application. | yes |
+| Repository contains quality README file with description, screenshot, and link to deployed application. | "Quality" |
 | The URL of the deployed application. | [Published page](https://macoovacany.github.io/Wk1-CSS_Refactoring) |
 | The URL of the GitHub repository, with a unique name and a README that describes the project. | [Github code repository](https://github.com/macoovacany/Wk1-CSS_Refactoring) |
 
