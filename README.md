@@ -45,7 +45,7 @@ THEN I find a concise, descriptive title
 | All image elements have alt tags | all images, except for the background div class="hero" bakcground-image,  have alt tags. |
 | headings are in sequential order | h1 heading reserved for entire document, <br> h2 headings used for content and benefits sections. |
 | Title is a concise and desciptive | Title changed to "Horiseon Social Solution Services" |
-| optimised CSS selectors | - changed the benefits heading to h2, as it's a separate section between "benefits" and "content" divs <br> - consolidated  the benefits-* heading to ".benefits * h2" <br> - consolidated common styling deinfitions as css list selectors. |
+| optimised CSS selectors |  consolidated common styling deinfitions as css list selectors. |
 | all the applications links work correctly |  updated navigation link to work correctly |
 | Application's CSS selectors and properties are consolidated and organized to follow semantic structure. | There are three ways the CSS selectors are consolidated<br> 1. items in the content section are decoupled by interoducing another class "content-items" <br> 2. used hte universal selector for sub items of benefits class <br> 3. used the css comma to apply style to multiple classes |
 | Application's CSS file is properly commented. | CSS file is commented |

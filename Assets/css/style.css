@@ -110,20 +110,18 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead, 
-.benefit-brand,
-.benefit-cost {
+.benefit-item {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* universal selector (*) to capture benefit-lead, -brand and -cost */
-.benefits * h2   {
+.benefit-item h2   {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits * img   {
+.benefit-item img   {
     display: block;
     margin: 10px auto;
     max-width: 150px;
